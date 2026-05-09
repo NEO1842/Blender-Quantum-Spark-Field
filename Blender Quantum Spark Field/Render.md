@@ -5,34 +5,35 @@
 </p>
 
 <p align="center">
-Particles drift through invisible fields, forming sparks, streams, and evolving motion patterns in real time.
+Particles drift through invisible force fields,<br>
+forming sparks, plasma streams, and evolving motion patterns in real time.
 </p>
 
 <p align="center">
----English--- Click the image to watch the animation.
-</p>
-
-<div align="center">
 <a href="https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=sharing">
 <img src="Force.png" width="700">
 </a>
-</div>
+</p>
+
+<p align="center">
+Click the image to watch the animation
+</p>
 
 ---
 
 ## 🌌 Overview
 
-Blender Quantum Spark Field is an abstract real-time particle animation project created with Blender.
+Blender Quantum Spark Field is an experimental real-time particle animation project created with Blender.
 
-The scene explores the idea of invisible energy shaping motion through force fields and vortex dynamics.
+The scene explores invisible energy shaping motion through force fields,
+vortex dynamics, and procedural particle behavior.
+
 Thousands of particles move like electrical sparks or flowing plasma,
 continuously reacting to simulated forces and rotational flow.
-
-The animation focuses on smooth movement, glowing energy trails,
-and immersive procedural motion that feels both artificial and organic.
+The result is an evolving abstract animation that feels both artificial and organic.
 
 Designed around real-time rendering techniques,
-the project balances visual complexity with efficient Eevee performance.
+the project balances cinematic visuals with efficient Eevee performance.
 
 ---
 
@@ -51,12 +52,12 @@ the project balances visual complexity with efficient Eevee performance.
 
 ## 🧠 Technical Notes
 
-- Uses Blender Force Fields to shape particle movement
+- Uses Blender Force Fields to control particle movement
 - Vortex Fields generate spiral and orbital motion
-- Particle flow is designed to resemble quantum energy streams
-- Procedural animation allows continuously evolving patterns
+- Procedural animation creates continuously evolving patterns
+- Particle flow is designed to resemble quantum-like energy streams
 - Optimized for smooth real-time viewport playback
-- Glow and bloom enhance the cinematic atmosphere
+- Bloom enhances the cinematic atmosphere
 
 ---
 
@@ -65,8 +66,8 @@ the project balances visual complexity with efficient Eevee performance.
 This project was inspired by concepts such as:
 
 - flowing energy
-- quantum-like motion
-- plasma streams
+- plasma motion
+- quantum-like behavior
 - sci-fi particle simulations
 - abstract cosmic phenomena
 
@@ -77,11 +78,11 @@ as if invisible forces are constantly interacting with the particles.
 
 ## 💡 Tips
 
-- Increasing Force strength creates more chaotic movement
-- Adjusting Vortex settings changes orbital behavior
-- Bloom intensity strongly affects the final mood
-- Lower sampling values are useful for fast previews
-- Color adjustments can completely change the atmosphere
+- Increase Force strength for more chaotic motion
+- Adjust Vortex settings to change orbital behavior
+- Bloom intensity strongly affects the final atmosphere
+- Lower sampling values for faster previews
+- Color grading can completely transform the mood
 
 ---
 
@@ -100,38 +101,39 @@ https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=shari
 </p>
 
 <p align="center">
-粒子はフォースフィールドの中を漂いながら、
-火花のような流れや進化し続ける動きをリアルタイムで生み出します。
+粒子はフォースフィールドの中を漂いながら、<br>
+火花やプラズマの流れのような動きをリアルタイムで生み出します。
 </p>
 
 <p align="center">
----日本語--- 画像をクリックするとアニメーションが再生されます。
-</p>
-
-<div align="center">
 <a href="https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=sharing">
 <img src="Force.png" width="700">
 </a>
-</div>
+</p>
+
+<p align="center">
+画像をクリックするとアニメーションが再生されます
+</p>
 
 ---
 
 ## 🌌 概要
 
 Blender Quantum Spark Field は、
-Blender を使用して制作された抽象的なリアルタイム粒子アニメーション作品です。
+Blender を使用して制作された
+実験的なリアルタイム粒子アニメーション作品です。
 
 このシーンでは、
+フォースフィールドや渦の力によって、
 見えないエネルギーが粒子の動きを支配しているような世界観を表現しています。
 
-大量の粒子が電気的な火花やプラズマの流れのように振る舞い、
-フォースフィールドや渦の影響を受けながら、
-常に変化し続ける有機的な動きを生み出します。
+大量の粒子は、
+電気的な火花や流動するプラズマのように振る舞い、
+シミュレートされた力と回転運動に反応しながら
+常に変化し続ける有機的な流れを生み出します。
 
-滑らかなモーション、
-発光するエネルギートレイル、
-そして没入感のあるプロシージャルアニメーションによって、
-SF的で幻想的な雰囲気を目指しました。
+人工的でありながら生命感のある動きを目指し、
+抽象的でシネマティックな映像表現として構築しました。
 
 リアルタイムレンダリングを前提に設計されており、
 高いビジュアル表現と Eevee の軽快な動作を両立しています。
@@ -153,24 +155,24 @@ SF的で幻想的な雰囲気を目指しました。
 
 ## 🧠 技術メモ
 
-- Blender の Force Field を利用して粒子を制御
+- Blender の Force Field による粒子制御
 - Vortex による回転・渦運動
-- 粒子の流れを量子的エネルギーのように設計
 - プロシージャル制御による継続的な変化
+- 量子的エネルギーをイメージした粒子表現
 - リアルタイム再生を意識した最適化
-- Bloom によるシネマティックな発光表現
+- Bloom によるシネマティックな発光演出
 
 ---
 
 ## 💡 クリエイティブコンセプト
 
-この作品は以下のようなイメージから影響を受けています。
+この作品は以下のイメージから影響を受けています。
 
 - エネルギーの流れ
-- 量子的な動き
-- プラズマの軌道
+- プラズマの動き
+- 量子的な挙動
 - SF的な粒子シミュレーション
-- 宇宙的・抽象的な現象
+- 宇宙的・抽象的現象
 
 粒子が単なるオブジェクトではなく、
 「見えない力によって生きている」ように感じられる動きを目指しました。
@@ -179,15 +181,15 @@ SF的で幻想的な雰囲気を目指しました。
 
 ## 💡 ヒント
 
-- Force を強くすると激しい動きになります
+- Force を強くするとより激しい動きになります
 - Vortex の設定で軌道パターンを変更可能
 - Bloom の強さで雰囲気が大きく変化します
 - プレビュー時はサンプリングを下げると高速化
-- カラー調整だけでも作品の印象が大きく変わります
+- カラー調整で作品の印象を大きく変えられます
 
 ---
 
-## 🎥 アニメーション
+## 🎥 Animation
 
 アニメーションはこちら：
 
