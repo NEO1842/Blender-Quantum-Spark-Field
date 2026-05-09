@@ -1,0 +1,23 @@
+name: Performance Issue
+description: Report rendering or viewport performance problems
+title: "[Performance]: "
+labels: ["performance"]
+
+body:
+  - type: textarea
+    id: issue
+    attributes:
+      label: Performance Problem
+      description: Describe the issue
+    validations:
+      required: true
+
+  - type: input
+    id: gpu
+    attributes:
+      label: GPU
+
+  - type: input
+    id: blender
+    attributes:
+      label: Blender Version
