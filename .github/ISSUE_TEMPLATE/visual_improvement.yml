@@ -1,0 +1,19 @@
+name: Visual Improvement
+description: Suggest visual or artistic improvements
+title: "[Visual]: "
+labels: ["visual"]
+
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Improvement Idea
+      description: Describe the visual improvement
+    validations:
+      required: true
+
+  - type: textarea
+    id: inspiration
+    attributes:
+      label: Inspiration
+      description: References or ideas
