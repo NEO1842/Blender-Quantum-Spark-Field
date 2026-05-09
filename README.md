@@ -10,7 +10,7 @@
 
 <div align="center">
 <a href="YOUR_VIDEO_LINK_HERE">
-<img src="Blender%20Quantum%20Spark%20Field/preview.png" width="600">
+<img src="Blender%20Quantum%20Spark%20Field/Quantum%20Spark%20Field.png" width="600">
 </a>
 </div>
 
@@ -84,7 +84,7 @@ This project is licensed under the MIT License.
 
 <div align="center">
 <a href="YOUR_VIDEO_LINK_HERE">
-<img src="Blender%20Quantum%20Spark%20Field/preview.png" width="600">
+<img src="Blender%20Quantum%20Spark%20Field/Quantum%20Spark%20Field.png" width="600">
 </a>
 </div>
 
