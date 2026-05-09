@@ -22,7 +22,7 @@ forming sparks, plasma streams, and evolving motion patterns in real time.
 
 <p align="center">
 <a href="https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=sharing">
-<img src="Force.png" width="700">
+<img src="Quantum%20Spark%20Field.png" width="700">
 </a>
 </p>
 
@@ -73,7 +73,7 @@ https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=shari
 
 <p align="center">
 <a href="https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=sharing">
-<img src="Force.png" width="700">
+<img src="Quantum%20Spark%20Field.png" width="700">
 </a>
 </p>
 
