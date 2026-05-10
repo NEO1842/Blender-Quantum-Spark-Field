@@ -21,7 +21,7 @@ forming sparks, plasma streams, and evolving motion patterns in real time.
 </p>
 
 <p align="center">
-<a href="https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=sharing">
+<a href="https://drive.google.com/file/d/19mhhuEuYOsKNWXz-dQ0557GC8f4d2viB/view?usp=drive_link">
 <img src="Quantum%20Spark%20Field.png" width="700">
 </a>
 </p>
@@ -58,7 +58,7 @@ creating evolving cinematic motion and glowing abstract structures.
 
 ## 🎥 Animation
 
-https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=sharing
+https://drive.google.com/file/d/19mhhuEuYOsKNWXz-dQ0557GC8f4d2viB/view?usp=drive_link
 
 ---
 
@@ -72,7 +72,7 @@ https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=shari
 </p>
 
 <p align="center">
-<a href="https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=sharing">
+<a href="https://drive.google.com/file/d/19mhhuEuYOsKNWXz-dQ0557GC8f4d2viB/view?usp=drive_link">
 <img src="Quantum%20Spark%20Field.png" width="700">
 </a>
 </p>
@@ -108,4 +108,4 @@ Blender を使用して制作された
 
 ## 🎥 アニメーション
 
-https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=sharing
+https://drive.google.com/file/d/19mhhuEuYOsKNWXz-dQ0557GC8f4d2viB/view?usp=drive_link
